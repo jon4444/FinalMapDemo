@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "12027581509",
+    "project_id": "finalmapdemo-2cb43",
+    "storage_bucket": "finalmapdemo-2cb43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12027581509:android:ce76bff3085ec6bd333f2c",
+        "android_client_info": {
+          "package_name": "com.example.finalmapdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12027581509-dr93f8r8mlcsngepa0urfr9g4d7sn4q6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.finalmapdemo",
+            "certificate_hash": "3b0ccae03eaf5a0990415232b56e63c737c73288"
+          }
+        },
+        {
+          "client_id": "12027581509-b6mhvdkproeefii5v63v9paomklek12k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATYxNuGtIH6BcOk9GLCTbhC-rmoot8S8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12027581509-b6mhvdkproeefii5v63v9paomklek12k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
